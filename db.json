@@ -1,0 +1,167 @@
+{
+    "Users" : [
+        [
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "1234567890",
+              "nombre": "Juan",
+              "apellido": "Pérez",
+              "edad": 30,
+              "correo": "juan.perez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "2345678901",
+              "nombre": "María",
+              "apellido": "Gómez",
+              "edad": 25,
+              "correo": "maria.gomez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "3456789012",
+              "nombre": "Carlos",
+              "apellido": "Rodríguez",
+              "edad": 28,
+              "correo": "carlos.rodriguez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "4567890123",
+              "nombre": "Ana",
+              "apellido": "Martínez",
+              "edad": 22,
+              "correo": "ana.martinez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "5678901234",
+              "nombre": "Luis",
+              "apellido": "Hernández",
+              "edad": 35,
+              "correo": "luis.hernandez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "6789012345",
+              "nombre": "Laura",
+              "apellido": "López",
+              "edad": 27,
+              "correo": "laura.lopez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "7890123456",
+              "nombre": "Jorge",
+              "apellido": "García",
+              "edad": 32,
+              "correo": "jorge.garcia@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "8901234567",
+              "nombre": "Elena",
+              "apellido": "Sánchez",
+              "edad": 29,
+              "correo": "elena.sanchez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "9012345678",
+              "nombre": "Miguel",
+              "apellido": "Ramírez",
+              "edad": 31,
+              "correo": "miguel.ramirez@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "0123456789",
+              "nombre": "Sofía",
+              "apellido": "Torres",
+              "edad": 24,
+              "correo": "sofia.torres@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "1123456789",
+              "nombre": "Pedro",
+              "apellido": "Flores",
+              "edad": 26,
+              "correo": "pedro.flores@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "2123456789",
+              "nombre": "Lucía",
+              "apellido": "Vargas",
+              "edad": 23,
+              "correo": "lucia.vargas@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "3123456789",
+              "nombre": "Andrés",
+              "apellido": "Morales",
+              "edad": 34,
+              "correo": "andres.morales@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "4123456789",
+              "nombre": "Paula",
+              "apellido": "Castro",
+              "edad": 21,
+              "correo": "paula.castro@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "5123456789",
+              "nombre": "Diego",
+              "apellido": "Ortiz",
+              "edad": 33,
+              "correo": "diego.ortiz@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "6123456789",
+              "nombre": "Valeria",
+              "apellido": "Ríos",
+              "edad": 20,
+              "correo": "valeria.rios@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "7123456789",
+              "nombre": "Fernando",
+              "apellido": "Mendoza",
+              "edad": 36,
+              "correo": "fernando.mendoza@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "8123456789",
+              "nombre": "Gabriela",
+              "apellido": "Romero",
+              "edad": 28,
+              "correo": "gabriela.romero@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "9123456789",
+              "nombre": "Ricardo",
+              "apellido": "Silva",
+              "edad": 27,
+              "correo": "ricardo.silva@example.com"
+            },
+            {
+              "tipo_identificacion": "CC",
+              "identificacion": "1012345678",
+              "nombre": "Natalia",
+              "apellido": "Reyes",
+              "edad": 22,
+              "correo": "natalia.reyes@example.com"
+            }
+          ]
+          
+    ]
+}
